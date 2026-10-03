@@ -1,0 +1,39 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.myvenv/
+
+# Source documents (copyrighted PDFs, add your own locally)
+documents/*
+!documents/.gitkeep
+
+# Large or local-only files
+*.zip
+*.mp4
+*.pptx
+/*.pdf
+PromptWise*/
+
+# Presentation build output and speaker notes
+presentation/*.pdf
+presentation/*.aux
+presentation/*.log
+presentation/*.nav
+presentation/*.out
+presentation/*.snm
+presentation/*.toc
+presentation/script.*
+
+# Internal working notes
+context.md
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

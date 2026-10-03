@@ -1,0 +1,12 @@
+streamlit
+sentence-transformers
+numpy
+pandas
+langchain-core
+langchain-groq
+langchain-text-splitters
+python-dotenv
+mysql-connector-python
+rank-bm25
+spacy
+llama-parse
